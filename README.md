@@ -8,7 +8,7 @@ Vaishnavi Hegde: WhatsApp Group No – 81
 Vishwajeet Kumar: WhatsApp Group No - 63
 Vaishnavi Bandari: WhatsApp Group No – 54
 
-We have “Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text “
+The task is to “Convert the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text “
 
 From the below code we can do the following tasks:
 
